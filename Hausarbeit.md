@@ -9,9 +9,6 @@
 ## Die Entwicklung der Transistoren
 
 ## Die Entwicklung der integrierten Schaltkreisen
-
-## Die Zeit der mobilen Endgeräte
-
 ## Zusammenfassung
 
 ## Literatur
