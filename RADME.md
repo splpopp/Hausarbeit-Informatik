@@ -1,3 +1,3 @@
-# Geschichte der Hausarbeit
+# Geschichte der Informatik
 
 Das ist meine Hausarbeit
